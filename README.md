@@ -1,0 +1,1 @@
+This is a grails project [because of the web application for the json which is challenge 3]. It also include java classes for challenge 1, 2 and 4. The classes are in the scr/java/message directory. The MyTestClass contain unit tests for the said challenges. The url for the json message app is /MessageProcessing
