@@ -26,7 +26,7 @@
             <g:textArea type="text" id="message" name="message" placeholder="Input valid json" value=""/>
         </div>
 
-        <div  class="paddingBottom15""></div>
+        <div class="paddingBottom15"></div>
         <g:if test="${flash.message}">
             <div id="notify" class="error">${flash.message}</div>
         </g:if>
